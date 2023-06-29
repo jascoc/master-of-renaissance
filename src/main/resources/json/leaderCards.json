@@ -1,0 +1,154 @@
+[
+  {
+    "name": "CoinDiscount",
+    "victoryPoints": 2,
+    "requirements": [
+      {"type": "devCard", "colour": "Blue", "level": 1, "amount": 1},
+      {"type": "devCard", "colour": "Purple", "level": 1, "amount": 1}
+    ],
+    "ability": "discount",
+    "resource": "Coin",
+    "desc": "Discount by 1 Coin the cost of development cards."
+  },
+  {
+    "name": "ServantDiscount",
+    "victoryPoints": 2,
+    "requirements": [
+      {"type": "devCard", "colour": "Yellow", "level": 1, "amount": 1},
+      {"type": "devCard", "colour": "Green", "level": 1, "amount": 1}
+    ],
+    "ability": "discount",
+    "resource": "Servant",
+    "desc": "Discount by 1 Servant the cost of development cards."
+  },
+  {
+    "name": "ShieldDiscount",
+    "victoryPoints": 2,
+    "requirements": [
+      {"type": "devCard", "colour": "Yellow", "level": 1, "amount": 1},
+      {"type": "devCard", "colour": "Purple", "level": 1, "amount": 1}
+    ],
+    "ability": "discount",
+    "resource": "Shield",
+    "desc": "Discount by 1 Shield the cost of development cards."
+  },
+  {
+    "name": "StoneDiscount",
+    "victoryPoints": 2,
+    "requirements": [
+      {"type": "devCard", "colour": "Green", "level": 1, "amount": 1},
+      {"type": "devCard", "colour": "Blue", "level": 1, "amount": 1}
+    ],
+    "ability": "discount",
+    "resource": "Stone",
+    "desc": "Discount by 1 Stone the cost of development cards."
+  },
+  {
+    "name": "CoinStorage",
+    "victoryPoints": 3,
+    "requirements": [{"type": "resource", "colour": "Shield", "level": 0,  "amount": 5}],
+    "ability": "additionalSpace",
+    "resource": "Coin",
+    "desc": "Get 2 Coin additional storage."
+  },
+  {
+    "name": "ServantStorage",
+    "victoryPoints": 3,
+    "requirements": [{"type": "resource", "colour": "Stone", "level": 0,  "amount": 5}],
+    "ability": "additionalSpace",
+    "resource": "Servant",
+    "desc": "Get 2 Servant additional storage."
+  },
+  {
+    "name": "ShieldStorage",
+    "victoryPoints": 3,
+    "requirements": [{"type": "resource", "colour": "Servant", "level": 0,  "amount": 5}],
+    "ability": "additionalSpace",
+    "resource": "Shield",
+    "desc": "Get 2 Shield additional storage."
+  },
+  {
+    "name": "StoneStorage",
+    "victoryPoints": 3,
+    "requirements": [{"type": "resource", "colour": "Coin", "level": 0, "amount": 5}],
+    "ability": "additionalSpace",
+    "resource": "Stone",
+    "desc": "Get 2 Stone additional storage."
+  },
+  {
+    "name": "WhiteToCoin",
+    "victoryPoints": 5,
+    "requirements": [
+      {"type": "devCard", "colour": "Purple", "level": 1, "amount": 2},
+      {"type": "devCard", "colour": "Green", "level": 1, "amount": 1}
+    ],
+    "ability": "whiteMarbleConvert",
+    "resource": "Coin",
+    "desc": "White Marbles are converted to Coins."
+  },
+  {
+    "name": "WhiteToServant",
+    "victoryPoints": 5,
+    "requirements": [
+      {"type": "devCard", "colour": "Yellow", "level": 1, "amount": 2},
+      {"type": "devCard", "colour": "Blue", "level": 1, "amount": 1}
+    ],
+    "ability": "whiteMarbleConvert",
+    "resource": "Servant",
+    "desc": "White Marbles are converted to Servants."
+  },
+  {
+    "name": "WhiteToShield",
+    "victoryPoints": 5,
+    "requirements": [
+      {"type": "devCard", "colour": "Green", "level": 1, "amount": 2},
+      {"type": "devCard", "colour": "Purple", "level": 1, "amount": 1}
+    ],
+    "ability": "whiteMarbleConvert",
+    "resource": "Shield",
+    "desc": "White Marbles are converted to Shields."
+  },
+  {
+    "name": "WhiteToStone",
+    "victoryPoints": 5,
+    "requirements": [
+      {"type": "devCard", "colour": "Blue", "level": 1, "amount": 2},
+      {"type": "devCard", "colour": "Yellow", "level": 1, "amount": 1}
+    ],
+    "ability": "whiteMarbleConvert",
+    "resource": "Stone",
+    "desc": "White Marbles are converted to Stones."
+  },
+  {
+    "name": "CoinProduction",
+    "victoryPoints": 4,
+    "requirements": [{"type": "devCard", "colour": "Green", "level": 2, "amount": 1}],
+    "ability": "newProduction",
+    "resource": "Coin",
+    "desc": "Add a new production using a Coin."
+  },
+  {
+    "name": "ServantProduction",
+    "victoryPoints": 4,
+    "requirements": [{"type": "devCard", "colour": "Blue", "level": 2, "amount": 1}],
+    "ability": "newProduction",
+    "resource": "Servant",
+    "desc": "Add a new production using a Servant."
+  },
+  {
+    "name": "ShieldProduction",
+    "victoryPoints": 4,
+    "requirements": [{"type": "devCard", "colour": "Yellow", "level": 2, "amount": 1}],
+    "ability": "newProduction",
+    "resource": "Shield",
+    "desc": "Add a new production using a Shield."
+  },
+  {
+    "name": "StoneProduction",
+    "victoryPoints": 4,
+    "requirements": [{"type": "devCard", "colour": "Purple", "level": 2, "amount": 1}],
+    "ability": "newProduction",
+    "resource": "Stone",
+    "desc": "Add a new production using a Stone."
+  }
+]

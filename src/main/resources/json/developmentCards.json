@@ -1,0 +1,386 @@
+[
+  {
+    "lvl" : 1,
+    "colour" : "Green",
+    "cardPrice" : ["Shield", "Shield"],
+    "victoryPoints" : 1,
+    "productionPrice" : ["Coin"],
+    "production" : ["RedCross"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Green",
+    "cardPrice" : ["Shield", "Servant", "Stone"],
+    "victoryPoints" : 2,
+    "productionPrice" : ["Stone"],
+    "production" : ["Servant"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Green",
+    "cardPrice" : ["Shield", "Shield", "Shield"],
+    "victoryPoints" : 3,
+    "productionPrice" : ["Servant", "Servant"],
+    "production" : ["Shield", "Stone", "Coin"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Green",
+    "cardPrice" : ["Coin", "Coin", "Shield", "Shield"],
+    "victoryPoints" : 4,
+    "productionPrice" : ["Servant", "Stone"],
+    "production" : ["Coin", "Coin", "RedCross"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Purple",
+    "cardPrice" : ["Servant", "Servant"],
+    "victoryPoints" : 1,
+    "productionPrice" : ["Stone"],
+    "production" : ["RedCross"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Purple",
+    "cardPrice" : ["Coin", "Servant", "Shield"],
+    "victoryPoints" : 2,
+    "productionPrice" : ["Coin"],
+    "production" : ["Shield"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Purple",
+    "cardPrice" : ["Servant", "Servant", "Servant"],
+    "victoryPoints" : 3,
+    "productionPrice" : ["Coin", "Coin"],
+    "production" : ["Servant", "Stone", "Shield"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Purple",
+    "cardPrice" : ["Servant", "Servant", "Stone", "Stone"],
+    "victoryPoints" : 4,
+    "productionPrice" : ["Coin", "Shield"],
+    "production" : ["Stone", "Stone", "RedCross"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin"],
+    "victoryPoints" : 1,
+    "productionPrice" : ["Shield"],
+    "production" : ["RedCross"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Servant", "Stone"],
+    "victoryPoints" : 2,
+    "productionPrice" : ["Servant"],
+    "production" : ["Stone"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin", "Coin"],
+    "victoryPoints" : 3,
+    "productionPrice" : ["Stone", "Stone"],
+    "production" : ["Coin", "Servant", "Shield"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin", "Servant", "Servant"],
+    "victoryPoints" : 4,
+    "productionPrice" : ["Shield", "Stone"],
+    "production" : ["Servant", "Servant", "RedCross"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Yellow",
+    "cardPrice" : ["Stone", "Stone"],
+    "victoryPoints" : 1,
+    "productionPrice" : ["Servant"],
+    "production" : ["RedCross"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Yellow",
+    "cardPrice" : ["Coin", "Shield", "Stone"],
+    "victoryPoints" : 2,
+    "productionPrice" : ["Shield"],
+    "production" : ["Coin"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Yellow",
+    "cardPrice" : ["Stone", "Stone", "Stone"],
+    "victoryPoints" : 3,
+    "productionPrice" : ["Shield", "Shield"],
+    "production" : ["Coin", "Servant", "Stone"]
+  },
+  {
+    "lvl" : 1,
+    "colour" : "Yellow",
+    "cardPrice" : ["Shield", "Shield", "Stone", "Stone"],
+    "victoryPoints" : 4,
+    "productionPrice" : ["Coin", "Servant"],
+    "production" : ["Shield", "Shield", "RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Green",
+    "cardPrice" : ["Shield", "Shield", "Shield", "Shield"],
+    "victoryPoints" : 5,
+    "productionPrice" : ["Stone"],
+    "production" : ["RedCross", "RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Green",
+    "cardPrice" : ["Shield", "Shield", "Shield", "Servant", "Servant"],
+    "victoryPoints" : 6,
+    "productionPrice" : ["Servant", "Shield"],
+    "production" : ["Stone", "Stone", "Stone"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Green",
+    "cardPrice" : ["Shield", "Shield", "Shield", "Shield", "Shield"],
+    "victoryPoints" : 7,
+    "productionPrice" : ["Coin", "Coin"],
+    "production" : ["Stone","Stone","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Green",
+    "cardPrice" : ["Coin", "Coin","Coin", "Shield", "Shield", "Shield"],
+    "victoryPoints" : 8,
+    "productionPrice" : ["Coin"],
+    "production" : ["Shield","Shield","RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Purple",
+    "cardPrice" : ["Servant", "Servant", "Servant", "Servant"],
+    "victoryPoints" : 5,
+    "productionPrice" : ["Coin"],
+    "production" : ["RedCross", "RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Purple",
+    "cardPrice" : ["Coin", "Coin", "Servant", "Servant", "Shield"],
+    "victoryPoints" : 6,
+    "productionPrice" : ["Coin", "Servant"],
+    "production" : ["Shield", "Shield", "Shield"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Purple",
+    "cardPrice" : ["Servant", "Servant", "Servant", "Servant", "Servant"],
+    "victoryPoints" : 7,
+    "productionPrice" : ["Stone", "Stone"],
+    "production" : ["Coin","Coin","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Purple",
+    "cardPrice" : ["Servant", "Servant", "Servant", "Shield", "Shield"],
+    "victoryPoints" : 8,
+    "productionPrice" : ["Stone"],
+    "production" : ["Servant", "Servant", "RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin", "Coin", "Coin"],
+    "victoryPoints" : 5,
+    "productionPrice" : ["Servant"],
+    "production" : ["RedCross", "RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin", "Coin", "Stone", "Stone"],
+    "victoryPoints" : 6,
+    "productionPrice" : ["Coin", "Stone"],
+    "production" : ["Servant", "Servant", "Servant"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin", "Coin", "Coin", "Coin"],
+    "victoryPoints" : 7,
+    "productionPrice" : ["Servant", "Servant"],
+    "production" : ["Shield","Shield","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin", "Coin", "Stone", "Stone"],
+    "victoryPoints" : 8,
+    "productionPrice" : ["Servant"],
+    "production" : ["Stone", "Stone", "RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Yellow",
+    "cardPrice" : ["Stone", "Stone", "Stone", "Stone"],
+    "victoryPoints" : 5,
+    "productionPrice" : ["Shield"],
+    "production" : ["RedCross", "RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Yellow",
+    "cardPrice" : ["Shield", "Shield", "Stone", "Stone", "Stone"],
+    "victoryPoints" : 6,
+    "productionPrice" : ["Shield", "Stone"],
+    "production" : ["Coin","Coin","Coin"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Yellow",
+    "cardPrice" : ["Stone", "Stone", "Stone","Stone", "Stone"],
+    "victoryPoints" : 7,
+    "productionPrice" : ["Shield", "Shield"],
+    "production" : ["Servant","Servant","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 2,
+    "colour" : "Yellow",
+    "cardPrice" : ["Servant", "Servant", "Servant", "Stone", "Stone", "Stone"],
+    "victoryPoints" : 8,
+    "productionPrice" : ["Shield"],
+    "production" : ["Coin", "Coin", "RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Green",
+    "cardPrice" : ["Shield", "Shield", "Shield", "Shield", "Shield", "Shield"],
+    "victoryPoints" : 9,
+    "productionPrice" : ["Coin", "Coin"],
+    "production" : ["Stone","Stone","Stone","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Green",
+    "cardPrice" : ["Shield", "Shield", "Shield", "Shield", "Shield", "Servant", "Servant"],
+    "victoryPoints" : 10,
+    "productionPrice" : ["Coin", "Servant"],
+    "production" : ["Shield","Shield","Stone","Stone","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Green",
+    "cardPrice" : ["Shield", "Shield", "Shield", "Shield", "Shield", "Shield", "Shield"],
+    "victoryPoints" : 11,
+    "productionPrice" : ["Servant"],
+    "production" : ["Coin","RedCross","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Green",
+    "cardPrice" : ["Coin", "Coin", "Coin", "Coin", "Shield", "Shield", "Shield", "Shield"],
+    "victoryPoints" : 12,
+    "productionPrice" : ["Stone"],
+    "production" : ["Coin","Coin","Coin","Shield"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Purple",
+    "cardPrice" : ["Servant", "Servant", "Servant", "Servant", "Servant", "Servant"],
+    "victoryPoints" : 9,
+    "productionPrice" : ["Stone", "Stone"],
+    "production" : ["Coin","Coin","Coin","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Purple",
+    "cardPrice" : ["Coin", "Coin", "Servant", "Servant", "Servant", "Servant", "Servant"],
+    "victoryPoints" : 10,
+    "productionPrice" : ["Shield", "Stone"],
+    "production" : ["Coin","Coin","Servant","Servant","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Purple",
+    "cardPrice" : ["Servant", "Servant", "Servant", "Servant", "Servant", "Servant", "Servant"],
+    "victoryPoints" : 11,
+    "productionPrice" : ["Coin"],
+    "production" : ["Stone","RedCross","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Purple",
+    "cardPrice" : ["Servant", "Servant", "Servant", "Servant", "Shield", "Shield", "Shield", "Shield"],
+    "victoryPoints" : 12,
+    "productionPrice" : ["Coin"],
+    "production" : ["Stone","Stone","Stone","Servant"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin", "Coin", "Coin", "Coin", "Coin"],
+    "victoryPoints" : 9,
+    "productionPrice" : ["Servant", "Servant"],
+    "production" : ["Shield","Shield","Shield","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin", "Coin", "Coin", "Coin", "Stone", "Stone"],
+    "victoryPoints" : 10,
+    "productionPrice" : ["Coin", "Shield"],
+    "production" : ["Servant","Servant","Stone","Stone","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin", "Coin", "Coin", "Coin", "Coin", "Coin"],
+    "victoryPoints" : 11,
+    "productionPrice" : ["Stone"],
+    "production" : ["Shield","RedCross","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Blue",
+    "cardPrice" : ["Coin", "Coin", "Coin", "Coin", "Stone", "Stone", "Stone", "Stone"],
+    "victoryPoints" : 12,
+    "productionPrice" : ["Servant"],
+    "production" : ["Shield","Shield","Shield","Coin"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Yellow",
+    "cardPrice" : ["Stone", "Stone", "Stone", "Stone", "Stone", "Stone"],
+    "victoryPoints" : 9,
+    "productionPrice" : ["Shield", "Shield"],
+    "production" : ["Servant","Servant","Servant","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Yellow",
+    "cardPrice" : ["Servant", "Servant", "Stone", "Stone", "Stone", "Stone", "Stone"],
+    "victoryPoints" : 10,
+    "productionPrice" : ["Servant", "Stone"],
+    "production" : ["Coin","Coin","Shield","Shield","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Yellow",
+    "cardPrice" : ["Stone", "Stone", "Stone", "Stone", "Stone", "Stone", "Stone"],
+    "victoryPoints" : 11,
+    "productionPrice" : ["Shield"],
+    "production" : ["Servant","RedCross","RedCross","RedCross"]
+  },
+  {
+    "lvl" : 3,
+    "colour" : "Yellow",
+    "cardPrice" : ["Servant", "Servant", "Servant", "Servant", "Stone", "Stone", "Stone", "Stone"],
+    "victoryPoints" : 12,
+    "productionPrice" : ["Shield"],
+    "production" : ["Servant","Servant","Servant","Stone"]
+  }
+]

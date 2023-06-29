@@ -1,0 +1,15 @@
+package it.polimi.ingsw.network.client.CLI;
+
+public class CLIMessage {
+    public static String TITLE = CLIColours.ANSI_BLUE+" ****     ****     **      ************************ *******           *******   ********       *******   ******** ****     **     **     **  ********  ********     **     ****     **   ******  ********\n/**/**   **/**    ****    **//////////**///**///// /**////**         **/////** /**/////       /**////** /**///// /**/**   /**    ****   /** **//////  **//////     ****   /**/**   /**  **////**/**///// \n/**//** ** /**   **//**  /**         /**  /**      /**   /**        **     //**/**            /**   /** /**      /**//**  /**   **//**  /**/**       /**          **//**  /**//**  /** **    // /**      \n/** //***  /**  **  //** /*********  /**  /******* /*******        /**      /**/*******       /*******  /******* /** //** /**  **  //** /**/*********/*********  **  //** /** //** /**/**       /******* \n/**  //*   /** **********////////**  /**  /**////  /**///**        /**      /**/**////        /**///**  /**////  /**  //**/** **********/**////////**////////** **********/**  //**/**/**       /**////  \n/**   /    /**/**//////**       /**  /**  /**      /**  //**       //**     ** /**            /**  //** /**      /**   //****/**//////**/**       /**       /**/**//////**/**   //****//**    **/**      \n/**        /**/**     /** ********   /**  /********/**   //**       //*******  /**            /**   //**/********/**    //***/**     /**/** ********  ******** /**     /**/**    //*** //****** /********\n//         // //      // ////////    //   //////// //     //         ///////   //             //     // //////// //      /// //      // // ////////  ////////  //      // //      ///   //////  //////// "+CLIColours.ANSI_RESET;
+    public static String WELCOME_MESSAGE = "Welcome to "+CLIColours.RED_UNDERLINED+"MASTER OF RENAISSANCE"+CLIColours.ANSI_RESET;
+    public static String LOGIN_MESSAGE = "Insert your " +CLIColours.RED_UNDERLINED+"name" +CLIColours.ANSI_RESET+" and " +CLIColours.RED_UNDERLINED+"the number of lobby's player you would like to join/create"+CLIColours.ANSI_RESET;
+    public static String FAILED_LOGIN_MESSAGE = CLIColours.ANSI_RED+"This nickname is already taken!"+CLIColours.ANSI_RESET;
+    public static String WAITING_MESSAGE = "Waiting for other player/s....";
+    public static String SET_UP_MESSAGE = "The game is starting, please wait....";
+    public static String START_MESSAGE = "The game is started!";
+    public static String RESOURCE_HELP_MESSAGE = CLIColours.ANSI_WHITE + "S" + CLIColours.ANSI_RESET +" == Stone\n" + CLIColours.ANSI_BLUE + "S" + CLIColours.ANSI_RESET+" == Shield\n" +CLIColours.ANSI_PURPLE + "S" + CLIColours.ANSI_RESET +" == Servant\n" +CLIColours.ANSI_YELLOW + "C" + CLIColours.ANSI_RESET +" == Coin\n" + CLIColours.ANSI_RED + "+" + CLIColours.ANSI_RESET+ " == Red Cross";
+    public static String CHOOSE_LEADER_MESSAGE = "Choose 2 leader card to discard";
+    public static String ACTIVE_LEADER_MESSAGE = "You activated: ";
+    public static String CHOOSE_ACTION_MESSAGE = "You can choose 1 of these 3 action: BuyDevCard, PickResources, ActiveProduction";
+}

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/JASCO/Desktop/ingswAM2021-Berzoini-Bosio-Chen</OriginalElement>
+  <nodes>
+    <node x="2424.0" y="400.0">it.polimi.ingsw.changes.EndSinglePlayerTurnChanges</node>
+    <node x="663.5" y="81.0">it.polimi.ingsw.model.leaderCards.LeaderCard</node>
+    <node x="2650.5" y="714.0">it.polimi.ingsw.network.client.Minimal.PlayerMinimal</node>
+    <node x="2116.0" y="947.0">it.polimi.ingsw.model.exceptions.OutOfFaithTrackException</node>
+    <node x="3247.0" y="1251.0">it.polimi.ingsw.network.client.GUI.GUIView</node>
+    <node x="2631.0" y="795.0">it.polimi.ingsw.network.client.Minimal.SinglePlayerMinimal</node>
+    <node x="0.0" y="1327.0">it.polimi.ingsw.network.CLITest</node>
+    <node x="3499.0" y="400.0">it.polimi.ingsw.changes.LeaderCardChanges</node>
+    <node x="0.0" y="1251.0">it.polimi.ingsw.network.client.GUI.GUIHandler</node>
+    <node x="2865.0" y="1023.0">it.polimi.ingsw.model.ResourceSupplyTest</node>
+    <node x="2907.0" y="400.0">it.polimi.ingsw.changes.MarbleMarketChanges</node>
+    <node x="2428.0" y="638.0">it.polimi.ingsw.model.commands.BuyDevCardCommand</node>
+    <node x="1286.0" y="400.0">it.polimi.ingsw.changes.GameStartedChanges</node>
+    <node x="2159.0" y="1251.0">it.polimi.ingsw.model.TrackTiles</node>
+    <node x="0.0" y="481.0">it.polimi.ingsw.changes.SinglePlayerWinnerChanges</node>
+    <node x="485.5" y="714.0">it.polimi.ingsw.model.tokens.ActionToken</node>
+    <node x="142.0" y="1327.0">it.polimi.ingsw.clients.Client1</node>
+    <node x="283.0" y="1327.0">it.polimi.ingsw.clients.Client2</node>
+    <node x="3592.0" y="1175.0">it.polimi.ingsw.network.client.CLI.CLIMessage</node>
+    <node x="424.0" y="1327.0">it.polimi.ingsw.clients.Client3</node>
+    <node x="2803.0" y="1099.0">it.polimi.ingsw.model.GameInitialization</node>
+    <node x="565.0" y="1327.0">it.polimi.ingsw.clients.Client4</node>
+    <node x="424.0" y="162.0">it.polimi.ingsw.model.leaderCards.ExtraProductionLeader</node>
+    <node x="1346.0" y="1251.0">it.polimi.ingsw.model.RoundTest</node>
+    <node x="1500.25" y="714.0">it.polimi.ingsw.model.Resource</node>
+    <node x="2638.0" y="947.0">it.polimi.ingsw.model.exceptions.ErrorInMessageException</node>
+    <node x="1259.0" y="638.0">it.polimi.ingsw.network.messages.RoundZeroMessage</node>
+    <node x="3242.0" y="1175.0">it.polimi.ingsw.model.GameModel</node>
+    <node x="800.0" y="1175.0">it.polimi.ingsw.model.SinglePlayerTest</node>
+    <node x="1015.0" y="162.0">it.polimi.ingsw.model.leaderCards.LeaderCardParameters</node>
+    <node x="1933.0" y="1023.0">it.polimi.ingsw.model.GameInitializationTest</node>
+    <node x="2164.0" y="1099.0">it.polimi.ingsw.network.server.AcceptConnection</node>
+    <node x="750.0" y="795.0">it.polimi.ingsw.model.tokens.GreenActionToken</node>
+    <node x="402.0" y="1175.0">it.polimi.ingsw.model.ResourceSupply</node>
+    <node x="2195.0" y="638.0">it.polimi.ingsw.model.commands.MoveResourceCommand</node>
+    <node x="1892.25" y="319.0">it.polimi.ingsw.changes.Changes</node>
+    <node x="1329.0" y="947.0">it.polimi.ingsw.network.client.Minimal.DevelopmentCardMinimal</node>
+    <node x="1073.0" y="400.0">it.polimi.ingsw.changes.PlayerWaitingChanges</node>
+    <node x="1573.0" y="795.0">it.polimi.ingsw.model.resources.Coin</node>
+    <node x="2976.0" y="1327.0">it.polimi.ingsw.network.client.CLI.CLI</node>
+    <node x="2630.0" y="1251.0">it.polimi.ingsw.network.MainApp</node>
+    <node x="1265.0" y="1327.0">it.polimi.ingsw.network.server.Server</node>
+    <node x="409.32142857142856" y="0.0">it.polimi.ingsw.model.Card</node>
+    <node x="2230.0" y="400.0">it.polimi.ingsw.changes.StrongboxChanges</node>
+    <node x="2874.0" y="638.0">it.polimi.ingsw.model.commands.EndTurnCommand</node>
+    <node x="3295.0" y="638.0">it.polimi.ingsw.model.commands.ActiveProductionCommand</node>
+    <node x="3301.0" y="400.0">it.polimi.ingsw.changes.WarehouseChanges</node>
+    <node x="638.0" y="162.0">it.polimi.ingsw.model.leaderCards.WhiteMarbleLeader</node>
+    <node x="188.0" y="795.0">it.polimi.ingsw.model.tokens.PurpleActionToken</node>
+    <node x="1998.0" y="1251.0">it.polimi.ingsw.model.PlayerTest</node>
+    <node x="732.0" y="1023.0">it.polimi.ingsw.model.BaseDevelopmentCard</node>
+    <node x="1524.0" y="1099.0">it.polimi.ingsw.model.PersonalBoardTest</node>
+    <node x="793.0" y="400.0">it.polimi.ingsw.changes.PlayerDevelopmentCardChanges</node>
+    <node x="1332.0" y="795.0">it.polimi.ingsw.model.resources.Stone</node>
+    <node x="1582.0" y="1175.0">it.polimi.ingsw.network.server.LobbyManager</node>
+    <node x="253.99999999999997" y="162.0">it.polimi.ingsw.model.leaderCards.DiscountLeader</node>
+    <node x="2895.0" y="947.0">it.polimi.ingsw.model.DevelopmentCardMarket</node>
+    <node x="974.0" y="1023.0">it.polimi.ingsw.model.MarketMarbleStructure</node>
+    <node x="339.0" y="1251.0">it.polimi.ingsw.model.Warehouse</node>
+    <node x="2397.0" y="795.0">it.polimi.ingsw.model.colourMarble.Red</node>
+    <node x="2645.0" y="638.0">it.polimi.ingsw.model.commands.PickResourcesCommand</node>
+    <node x="2494.0" y="795.0">it.polimi.ingsw.model.colourMarble.Purple</node>
+    <node x="3.0" y="162.0">it.polimi.ingsw.model.DevelopmentCardDecorator</node>
+    <node x="3402.0" y="871.0">it.polimi.ingsw.model.MarketMarbleStructureTest</node>
+    <node x="0.0" y="795.0">it.polimi.ingsw.model.tokens.MoveActionToken</node>
+    <node x="3409.0" y="947.0">it.polimi.ingsw.model.DevelopmentCardString</node>
+    <node x="873.0" y="638.0">it.polimi.ingsw.network.messages.EndTurnMessage</node>
+    <node x="0.0" y="243.0">it.polimi.ingsw.model.ProductionDevelopmentCard</node>
+    <node x="987.0" y="1327.0">it.polimi.ingsw.model.Round</node>
+    <node x="3197.0" y="714.0">it.polimi.ingsw.model.ProductionDevelopmentCardTest</node>
+    <node x="602.0" y="871.0">it.polimi.ingsw.model.exceptions.NotEnoughResourcesException</node>
+    <node x="1695.0" y="638.0">it.polimi.ingsw.network.messages.MoveResourcesMessage</node>
+    <node x="1180.0" y="1251.0">it.polimi.ingsw.network.client.GUI.JavafxMain</node>
+    <node x="2229.5" y="714.0">it.polimi.ingsw.model.Marble</node>
+    <node x="3543.0" y="638.0">it.polimi.ingsw.model.commands.RoundZeroCommand</node>
+    <node x="1812.0" y="1327.0">it.polimi.ingsw.network.Parser</node>
+    <node x="3065.0" y="1175.0">it.polimi.ingsw.GUIVariables</node>
+    <node x="454.0" y="638.0">it.polimi.ingsw.network.messages.SetupGameMessage</node>
+    <node x="1459.0" y="638.0">it.polimi.ingsw.network.messages.SingleMessageFromClient</node>
+    <node x="2874.0" y="714.0">it.polimi.ingsw.model.Player</node>
+    <node x="1511.0" y="1251.0">it.polimi.ingsw.network.client.CLI.CLIColours</node>
+    <node x="3697.0" y="400.0">it.polimi.ingsw.changes.ReconnectedClientChanges</node>
+    <node x="2153.0" y="1175.0">it.polimi.ingsw.network.messages.DefinedValues</node>
+    <node x="2794.75" y="557.0">it.polimi.ingsw.model.commands.Command</node>
+    <node x="236.0" y="638.0">it.polimi.ingsw.network.messages.ChooseLeaderMessage</node>
+    <node x="210.0" y="400.0">it.polimi.ingsw.changes.ErrorChanges</node>
+    <node x="2026.0" y="871.0">it.polimi.ingsw.model.exceptions.ResourceNotFoundException</node>
+    <node x="1013.0" y="1251.0">it.polimi.ingsw.model.MarbleTest</node>
+    <node x="2284.0" y="795.0">it.polimi.ingsw.model.colourMarble.Yellow</node>
+    <node x="0.0" y="638.0">it.polimi.ingsw.network.messages.ActiveProductionMessage</node>
+    <node x="3095.0" y="1251.0">it.polimi.ingsw.network.client.CLIClient</node>
+    <node x="1931.0" y="400.0">it.polimi.ingsw.changes.DevelopmentCardStructureChanges</node>
+    <node x="658.0" y="1099.0">it.polimi.ingsw.SetTestAdvantages</node>
+    <node x="1441.0" y="795.0">it.polimi.ingsw.model.resources.uselessResources.RedCross</node>
+    <node x="3397.0" y="1251.0">it.polimi.ingsw.network.client.IOClient</node>
+    <node x="1697.0" y="1023.0">it.polimi.ingsw.network.client.Minimal.MarbleMarketMinimal</node>
+    <node x="220.0" y="1099.0">it.polimi.ingsw.network.client.Minimal.LeaderCardMinimal</node>
+    <node x="1674.0" y="795.0">it.polimi.ingsw.model.resources.Servant</node>
+    <node x="2524.0" y="1175.0">it.polimi.ingsw.model.TrackTilesTest</node>
+    <node x="534.0" y="947.0">it.polimi.ingsw.model.exceptions.CantBuyThisCardException</node>
+    <node x="3028.0" y="714.0">it.polimi.ingsw.network.Observable</node>
+    <node x="938.0" y="795.0">it.polimi.ingsw.model.tokens.MoveAndShuffleActionToken</node>
+    <node x="3032.5" y="795.0">it.polimi.ingsw.network.server.Controller</node>
+    <node x="1794.0" y="795.0">it.polimi.ingsw.model.resources.uselessResources.UselessWhite</node>
+    <node x="3133.0" y="871.0">it.polimi.ingsw.model.exceptions.NotEnoughSpaceException</node>
+    <node x="2185.0" y="795.0">it.polimi.ingsw.model.colourMarble.Blue</node>
+    <node x="1221.0" y="795.0">it.polimi.ingsw.model.resources.Shield</node>
+    <node x="2084.0" y="795.0">it.polimi.ingsw.model.colourMarble.Grey</node>
+    <node x="38.0" y="400.0">it.polimi.ingsw.changes.WinnerChanges</node>
+    <node x="3545.0" y="1251.0">it.polimi.ingsw.network.server.Handler</node>
+    <node x="34.5" y="81.0">it.polimi.ingsw.model.DevelopmentCard</node>
+    <node x="3315.0" y="1023.0">it.polimi.ingsw.model.leaderCardsTest.DiscountLeaderTest</node>
+    <node x="833.0" y="162.0">it.polimi.ingsw.model.leaderCards.ExtraSpaceLeader</node>
+    <node x="245.0" y="1023.0">it.polimi.ingsw.model.leaderCardsTest.WhiteMarbleLeaderTest</node>
+    <node x="380.0" y="795.0">it.polimi.ingsw.model.tokens.BlueActionToken</node>
+    <node x="558.0" y="795.0">it.polimi.ingsw.model.tokens.YellowActionToken</node>
+    <node x="656.0" y="638.0">it.polimi.ingsw.network.messages.PickResourcesMessage</node>
+    <node x="1053.0" y="638.0">it.polimi.ingsw.network.messages.BuyDevCardMessage</node>
+    <node x="3122.0" y="400.0">it.polimi.ingsw.changes.EndTurnChanges</node>
+    <node x="799.0" y="947.0">it.polimi.ingsw.model.leaderCardsTest.ExtraProductionLeaderTest</node>
+    <node x="1854.0" y="947.0">it.polimi.ingsw.model.exceptions.TooManyPlayersException</node>
+    <node x="0.0" y="1175.0">it.polimi.ingsw.model.GameModelTest</node>
+    <node x="2855.0" y="795.0">it.polimi.ingsw.model.SinglePlayer</node>
+    <node x="557.0" y="400.0">it.polimi.ingsw.changes.ExtraSpaceLeaderChanges</node>
+    <node x="1388.0" y="1175.0">it.polimi.ingsw.model.WarehouseTest</node>
+    <node x="3428.0" y="1099.0">it.polimi.ingsw.network.SerializeMessage</node>
+    <node x="0.0" y="871.0">it.polimi.ingsw.network.client.Minimal.DevelopmentCardMarketMinimal</node>
+    <node x="367.0" y="400.0">it.polimi.ingsw.changes.FaithTrackChanges</node>
+    <node x="1948.0" y="638.0">it.polimi.ingsw.model.commands.SingleCommandFromClient</node>
+    <node x="1539.0" y="1327.0">it.polimi.ingsw.network.server.Lobby</node>
+    <node x="2679.0" y="400.0">it.polimi.ingsw.changes.NickNameTakenChanges</node>
+    <node x="1964.0" y="1175.0">it.polimi.ingsw.model.PersonalBoard</node>
+    <node x="1495.0" y="400.0">it.polimi.ingsw.changes.ConnectionPlayerChanges</node>
+    <node x="1180.0" y="871.0">it.polimi.ingsw.model.DevelopmentCardMarketTest</node>
+    <node x="1731.0" y="400.0">it.polimi.ingsw.changes.LastRoundsChanges</node>
+    <node x="267.0" y="947.0">it.polimi.ingsw.model.BaseDevelopmentCardTest</node>
+    <node x="3066.0" y="638.0">it.polimi.ingsw.model.commands.ChooseLeaderCommand</node>
+    <node x="1676.0" y="1251.0">it.polimi.ingsw.network.RunServer</node>
+    <node x="2941.0" y="1251.0">it.polimi.ingsw.Variables</node>
+    <node x="1975.0" y="795.0">it.polimi.ingsw.model.colourMarble.White</node>
+    <node x="439.0" y="1099.0">it.polimi.ingsw.network.client.Minimal.WarehouseMinimal</node>
+    <node x="899.0" y="557.0">it.polimi.ingsw.network.messages.Message</node>
+    <node x="2401.0" y="1023.0">it.polimi.ingsw.model.leaderCardsTest.ExtraSpaceLeaderTest</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="it.polimi.ingsw.model.tokens.MoveActionToken" target="it.polimi.ingsw.model.tokens.ActionToken" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="84.0" y="770.0" />
+      <point x="551.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.leaderCards.ExtraSpaceLeader" target="it.polimi.ingsw.model.leaderCards.LeaderCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="914.0" y="137.0" />
+      <point x="725.5" y="137.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.leaderCards.WhiteMarbleLeader" target="it.polimi.ingsw.model.leaderCards.LeaderCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.DevelopmentCardDecorator" target="it.polimi.ingsw.model.DevelopmentCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.PlayerDevelopmentCardChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="923.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.colourMarble.Purple" target="it.polimi.ingsw.model.Marble" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2540.0" y="770.0" />
+      <point x="2277.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.messages.ActiveProductionMessage" target="it.polimi.ingsw.network.messages.Message" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="108.0" y="613.0" />
+      <point x="953.0" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.MarbleMarketChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="3004.5" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.commands.SingleCommandFromClient" target="it.polimi.ingsw.model.commands.Command" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2061.5" y="613.0" />
+      <point x="2854.75" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.messages.PickResourcesMessage" target="it.polimi.ingsw.network.messages.Message" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="754.5" y="613.0" />
+      <point x="953.0" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.messages.ChooseLeaderMessage" target="it.polimi.ingsw.network.messages.Message" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="335.0" y="613.0" />
+      <point x="953.0" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.LeaderCardChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="3588.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.tokens.BlueActionToken" target="it.polimi.ingsw.model.tokens.ActionToken" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="459.0" y="770.0" />
+      <point x="551.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.ErrorChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="278.5" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.server.Controller" target="it.polimi.ingsw.network.Observable" relationship="REALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.tokens.YellowActionToken" target="it.polimi.ingsw.model.tokens.ActionToken" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="644.0" y="770.0" />
+      <point x="551.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.StrongboxChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2317.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.messages.EndTurnMessage" target="it.polimi.ingsw.network.messages.Message" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.resources.uselessResources.RedCross" target="it.polimi.ingsw.model.Resource" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1497.0" y="770.0" />
+      <point x="1555.25" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.messages.MoveResourcesMessage" target="it.polimi.ingsw.network.messages.Message" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1799.0" y="613.0" />
+      <point x="953.0" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.client.Minimal.SinglePlayerMinimal" target="it.polimi.ingsw.network.client.Minimal.PlayerMinimal" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.leaderCards.ExtraProductionLeader" target="it.polimi.ingsw.model.leaderCards.LeaderCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="521.0" y="137.0" />
+      <point x="725.5" y="137.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.resources.Servant" target="it.polimi.ingsw.model.Resource" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1724.0" y="770.0" />
+      <point x="1555.25" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.ProductionDevelopmentCard" target="it.polimi.ingsw.model.DevelopmentCardDecorator" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.leaderCards.LeaderCard" target="it.polimi.ingsw.model.Card" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="725.5" y="56.0" />
+      <point x="450.32142857142856" y="56.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.ReconnectedClientChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="3809.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.colourMarble.Red" target="it.polimi.ingsw.model.Marble" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2435.5" y="770.0" />
+      <point x="2277.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.tokens.GreenActionToken" target="it.polimi.ingsw.model.tokens.ActionToken" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="834.0" y="770.0" />
+      <point x="551.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.colourMarble.White" target="it.polimi.ingsw.model.Marble" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2019.5" y="770.0" />
+      <point x="2277.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.DevelopmentCard" target="it.polimi.ingsw.model.Card" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="118.5" y="56.0" />
+      <point x="450.32142857142856" y="56.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.commands.BuyDevCardCommand" target="it.polimi.ingsw.model.commands.Command" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2526.5" y="613.0" />
+      <point x="2854.75" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.resources.Coin" target="it.polimi.ingsw.model.Resource" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1613.5" y="770.0" />
+      <point x="1555.25" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.resources.Shield" target="it.polimi.ingsw.model.Resource" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1266.5" y="770.0" />
+      <point x="1555.25" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.GameStartedChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1380.5" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.commands.PickResourcesCommand" target="it.polimi.ingsw.model.commands.Command" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2749.5" y="613.0" />
+      <point x="2854.75" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.EndTurnChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="3201.5" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.tokens.MoveAndShuffleActionToken" target="it.polimi.ingsw.model.tokens.ActionToken" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1057.0" y="770.0" />
+      <point x="551.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.DevelopmentCardStructureChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2070.5" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.SinglePlayerWinnerChanges" target="it.polimi.ingsw.changes.WinnerChanges" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.ExtraSpaceLeaderChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="665.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.leaderCards.LeaderCardParameters" target="it.polimi.ingsw.model.leaderCards.LeaderCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1112.0" y="137.0" />
+      <point x="725.5" y="137.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.resources.uselessResources.UselessWhite" target="it.polimi.ingsw.model.Resource" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1862.0" y="770.0" />
+      <point x="1555.25" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.messages.BuyDevCardMessage" target="it.polimi.ingsw.network.messages.Message" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1146.0" y="613.0" />
+      <point x="953.0" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.EndSinglePlayerTurnChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2541.5" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.commands.ChooseLeaderCommand" target="it.polimi.ingsw.model.commands.Command" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="3170.5" y="613.0" />
+      <point x="2854.75" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.commands.MoveResourceCommand" target="it.polimi.ingsw.model.commands.Command" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2301.5" y="613.0" />
+      <point x="2854.75" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.colourMarble.Yellow" target="it.polimi.ingsw.model.Marble" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2330.5" y="770.0" />
+      <point x="2277.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.messages.SingleMessageFromClient" target="it.polimi.ingsw.network.messages.Message" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1567.0" y="613.0" />
+      <point x="953.0" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.tokens.PurpleActionToken" target="it.polimi.ingsw.model.tokens.ActionToken" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="274.0" y="770.0" />
+      <point x="551.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.commands.EndTurnCommand" target="it.polimi.ingsw.model.commands.Command" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2960.0" y="613.0" />
+      <point x="2854.75" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.FaithTrackChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="452.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.commands.RoundZeroCommand" target="it.polimi.ingsw.model.commands.Command" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="3638.5" y="613.0" />
+      <point x="2854.75" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.ConnectionPlayerChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1603.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.WarehouseChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="3390.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.resources.Stone" target="it.polimi.ingsw.model.Resource" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1376.5" y="770.0" />
+      <point x="1555.25" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.messages.RoundZeroMessage" target="it.polimi.ingsw.network.messages.Message" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1349.0" y="613.0" />
+      <point x="953.0" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.commands.ActiveProductionCommand" target="it.polimi.ingsw.model.commands.Command" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="3409.0" y="613.0" />
+      <point x="2854.75" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.NickNameTakenChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2783.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.colourMarble.Grey" target="it.polimi.ingsw.model.Marble" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2124.5" y="770.0" />
+      <point x="2277.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.colourMarble.Blue" target="it.polimi.ingsw.model.Marble" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="2224.5" y="770.0" />
+      <point x="2277.5" y="770.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.leaderCards.DiscountLeader" target="it.polimi.ingsw.model.leaderCards.LeaderCard" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="329.0" y="137.0" />
+      <point x="725.5" y="137.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.LastRoundsChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1821.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.network.messages.SetupGameMessage" target="it.polimi.ingsw.network.messages.Message" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="545.0" y="613.0" />
+      <point x="953.0" y="613.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.PlayerWaitingChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="1169.5" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.model.SinglePlayer" target="it.polimi.ingsw.model.Player" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.changes.WinnerChanges" target="it.polimi.ingsw.changes.Changes" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="114.0" y="375.0" />
+      <point x="1945.75" y="375.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.3019538188277087" showDependencies="false" x="2412.555882352941" y="679.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
